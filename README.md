@@ -4,7 +4,7 @@ A Light GUI App Launcher Application Based On the 'customtkinter' Module Within 
 
 Important Information:
 
-NOTE: EXCLUDE THE FILE YOU PUT THE APPLICATION IN OTHERWISE WINDOWS DEFENDER ( Or other anti-virus software )
+NOTE: EXCLUDE THE FILE YOU PUT THE APPLICATION IN OTHERWISE WINDOWS DEFENDER ( Or other anti-virus software ) WILL DELETE IT.
 
 1. There is a known issue with slot 14 and not grabbing the icon file from the exe you select.
 2. I am unable to grab the icon files from '.url' files that launch steam games (Or Other Things).
